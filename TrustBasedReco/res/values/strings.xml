@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Entrust</string>
+    <string name="hello_world">Your Bookmarks here</string>
+    <string name="action_settings">Settings</string>
+    <string name="login_email">Eg: joe@gmail.com</string>
+    <string name="label_email">Email</string>
+    <string name="label_password">Password</string>
+    <string name="button_signin">Sign In</string>
+    <string name="label_newuser">New User?</string>
+    <string name="button_signup">Sign Up</string>
+    <string name="button_fbsignin">Login with Facebok</string>
+    <string name="label_fname">First Name</string>
+    <string name="label_lname">Last Name</string>
+    <string name="txt_fname">Eg: John </string>
+    <string name="txt_lname">Eg: Burton </string>
+    <string name="title_activity_show_bookmarks">ShowBookmarksActivity</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+
+</resources>
